@@ -1,0 +1,6 @@
+Non persistent: 0.402029775
+Persistent 2  : 0.211581492
+Persistent 4  : 0.626499735
+Persistent 6  : 0.148255278
+Persistent 8  : 0.123297505
+Persistent 10 : 0.154418963
