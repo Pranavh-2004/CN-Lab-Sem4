@@ -1,6 +1,6 @@
 # UE23CS252B : Computer Networks Laboratory
 
-This repository contains code and detailed problem statements for the 6 weeks of laboratory exercises conducted during the third semester as part of the **Computer Networks (CN)** course.
+This repository contains code and detailed problem statements for the 6 weeks of laboratory exercises conducted during the fourth semester as part of the **Computer Networks (CN)** course.
 
 ## Repository Overview
 
